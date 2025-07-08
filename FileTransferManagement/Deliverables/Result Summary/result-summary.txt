@@ -1,0 +1,23 @@
+Summary at 2568-07-07 18:21:12:
+Failed (Size mismatch): logo.jpg
+Skipped: report.temp
+Failed (Size mismatch): result.csv
+Failed (Size mismatch): test.txt
+
+Summary at 2568-07-07 18:22:12:
+Failed (Size mismatch): logo.jpg
+Skipped: report.temp
+Failed (Size mismatch): result.csv
+Failed (Size mismatch): test.txt
+
+Summary at 2568-07-07 18:25:23:
+Transferred: logo.jpg
+Skipped: report.temp
+Transferred: result.csv
+Transferred: test.txt
+
+Summary at 2568-07-07 18:27:59:
+Transferred: logo101.jpg
+Skipped: report.temp
+Transferred: result777.csv
+
